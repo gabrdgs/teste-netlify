@@ -522,7 +522,8 @@ button:focus {
     padding: 180px 0 0px; }
     .hero-area .intro-img img {
       display: block;
-      height: auto;
+      height: 500px;
+      margin-top: -100px;
       max-width: 100%; }
 
 /* ==========================================================================
